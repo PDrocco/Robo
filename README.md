@@ -10,6 +10,7 @@ Quando finalizar o download, execute o comando:
 chmod 755 Robo/setup.sh && sudo Robo/setup.sh
 ```
 ## Utilização
+Para iniciar o script utilizar a palavra "robot".
 Assim que rodar o código, utilize a função "manual" para se situar.
 
 
