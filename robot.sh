@@ -157,7 +157,7 @@ function criador(){
 function roleta(){
 case $NUM in 
 	*0*)
-		say "Deu sorte dessa vez, nada vai acontecer..."
+		echo "Deu sorte dessa vez, nada vai acontecer..."
 	;;
 	*1*)
 		echo "Desligando o computador..."
