@@ -1,6 +1,6 @@
 #!/bin/bash
 #MrRobot
-#Pedro Costa
+#Criador: Pedro Costa
 #RM:92996
 
 
@@ -151,7 +151,7 @@ h=$(date +"%H")
 		echo "Como você está?"
 }
 function criador(){
-	echo -e "Meu pai se chama $CRIADOR e o RM dele é $RM"
+	echo -e "Meu pai se chama $Criador e o RM dele é $RM"
 
 }
 function roleta(){
