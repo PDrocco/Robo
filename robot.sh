@@ -65,16 +65,15 @@ function opcoes(){
 	echo
 	sleep 1
 	echo "1 - roleta, CUIDADO, use por sua conta e risco!"
-	echo "2 - namoro"
-	echo "3 - manual"
-	echo "4 - vulnerabilidade"
-	echo "5 - servicos"
-	echo "6 - conexão"
-	echo "7 - atualizar"
-	echo "8 - namoro"
-	echo "9 - versao"
-	echo "10 - criador"
-	echo "11 - horario"
+	echo "2 - manual"
+	echo "3 - vulnerabilidade"
+	echo "4 - servicos"
+	echo "5 - conexão"
+	echo "6 - atualizar"
+	echo "7 - namoro"
+	echo "8 - versao"
+	echo "9 - criador"
+	echo "10 - horario"
 	echo
 	sleep 1
 	echo "Você não precisa usar elas em ordem."
