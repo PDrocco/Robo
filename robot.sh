@@ -210,7 +210,7 @@ case $PERGUNTA in
 		roleta
 	  ;;
   	*"manual"*)
-		ajuda
+		manual
 	  ;;
 	*"opções"*)
 		opcoes
